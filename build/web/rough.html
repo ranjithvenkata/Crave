@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+            function up()
+            { 
+           var obj = document.getElementById("t").value;
+            if(obj==='red')  
+            { document.getElementById("demo").innerHTML = " the box is removed, answer is red"; }
+            
+            if(obj==='yellow')
+            { document.getElementById("demo").innerHTML = " the box is removed, answer is yellow";}
+            
+            }
+            </script>
+    </head>
+    <body>
+        <form name="t1">
+            <select id="t" onchange="up()">
+                    <option value="red">red
+                <option value="yellow">yellow
+            </select>    
+            
+        <p id="demo"><input type="text" id="r"></p>        </form>
+
+    </body>
+</html>
