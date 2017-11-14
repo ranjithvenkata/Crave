@@ -1,0 +1,89 @@
+food_id,Name,Type,Cuisine,Veg,Taste,Ingedient,Calories,Price,Time_used,shop
+1,"Rice with crispy pork","Main Couse",Thai,"Non Vegetarian",Spicy,"Crispy Pork,rice",490.00,35,5,"Rice topping shop"
+2,"Rice with crispy pork and egg","Main Couse",Thai,"Non Vegetarian",Spicy,"Crispy Pork,rice,egg",568.00,40,5,"Rice topping shop"
+3,"Rice with BarBQ red pork","Main Couse",Thai,"Non Vegetarian",Spicy,"red pork,rice",541.00,35,5,"Rice topping shop"
+4,"steamed Rice with roasted chicken","Main Couse",Thai,"Non Vegetarian",Spicy,"ckicken,rice",251.00,35,5,"Rice topping shop"
+5,"steamed Rice with  chicken soup","Main Couse",Thai,"Non Vegetarian",Spicy,"chicken,rice",597.00,35,5,"Rice topping shop"
+6,"steamed Rice with  chicken soup and innards","Main Couse",Thai,"Non Vegetarian",Spicy,"neck,gizzard,heart,liver of a chicken,rice",597.00,40,5,"Rice topping shop"
+7,"Pizza Margherita","Main Couse",Italian,Vegetarian,"Less Spicy","Tomato,Cheese,Bread",204.00,65,0,Western
+8,BakedPasta,"Main Couse",Italian,Vegetarian,"Less Spicy","cream cheese or tomato cheese",403.00,65,0,Western
+9,"Pizza Hawaiian","Main Couse",Italian,"Non Vegetarian","Medium spicy","chiken ham,sausage,bell pepper,pineapple,onion,olive,tomato,cheese",220.00,65,0,Western
+10,"Pizza vegetable","Main Couse",Italian,Vegetarian,"Less Spicy","tomato and cheese",242.00,65,0,Western
+11,"Spaghetti ","Main Couse",Italian,"Non Vegetarian","Medium spicy","cabonara sauce or beef sauce or chicken sauce",329.00,45,0,Western
+12,"Spaghetti ","Main Couse",Italian,Vegetarian,"Less Spicy","tomato sauce",325.00,45,0,Western
+13,Lasagna,"Main Couse",Italian,Vegetarian,"Less Spicy","Spinach and mushroom",334.00,50,0,Western
+14,"Garlic Bread",Starter,"South American",Vegetarian,"Less Spicy","butter,garlic powder,parsely",94.00,15,0,Western
+15,"Baked Soft roll garlic",Starter,"South American",Vegetarian,"Less Spicy",NULL,84.00,20,0,Western
+16,"Soft roll",Starter,"South American",Vegetarian,"Less Spicy","yeast,milk,egg,vegitable oil,sugar,salt,butter,flour",78.00,10,0,Western
+17,"Caramel Custard",Dessert,Western,Vegetarian,"Less Spicy","vannila,sugar,milk,egg",70.00,30,0,Western
+18,FreshFruit,Dessert,Western,Vegetarian,"Less Spicy",NULL,70.00,30,0,Western
+19,"Grilled chicken mushroom",Starter,Western,"Non Vegetarian",Spicy,"fried potato,butter vegitable",330.00,65,0,Western
+20,"Grilled Pork loin Mushroom ",Starter,Western,"Non Vegetarian",Spicy,"fried potato,butter vegitable",346.00,65,0,Western
+21,"Grilled Beef striploin mushroom",Starter,Western,"Non Vegetarian",Spicy,"fried potato,butter vegitable",489.00,65,0,Western
+22,"vegetable salad",Starter,Western,Vegetarian,"Less Spicy",allvegetables,15.00,30,0,Western
+23,"Tuna salad",Starter,Western,"Non Vegetarian","Less Spicy","white meat tuna,celery",140.00,30,0,Western
+24,"chicken salad",Starter,Western,"Non Vegetarian",Spicy,chicken,290.00,30,30,Western
+25,"papaya salad",Starter,Western,Vegetarian,"Less Spicy",papaya,270.00,30,0,Western
+26,"chicken soup",Starter,Western,"Non Vegetarian","Medium spicy",chicken,130.00,30,0,Western
+27,"Mushroom soup",Starter,Western,Vegetarian,"Medium spicy",Mushroom,138.00,30,0,Western
+28,"Potato cream soup",Starter,Western,"Non Vegetarian","Medium spicy","garlic,celery,potato,chicken granuales",148.00,30,0,Western
+29,"tomato cream soup",Starter,Western,"Non Vegetarian","Less Spicy","garlic,celery,tomato,chicken stock",130.00,30,0,Western
+30,"Stir-Fried Chicken with Chilli and Hot Basil Leaves ","Main Couse",Thai,"Non Vegetarian","Medium Spicy","Rice,Chicken,Chilli,Basil leaves",554.00,40,10,"Thai "
+31,"Stir-Fired Flat Rice Noodels with Pork in Soy Sauce",Noodle,Thai,"Non Vegetarian","Less Spicy","Flat Rice Noodels, Pork, Soy Sauce ",679.00,40,10,"Thai "
+32,"Sukiyaki Noodels with Seafood",Noodle,Thai,"Non Vegetarian","Less Spicy","Glass Noodles, Prawn, Squeez, Kale, Soy Sauce, Tapioca flour",330.00,60,10,"Thai "
+33,"Stir Fired Rice Noodle with Shrimp in Tamarind Sauce",Noodle,Thai,"Non Vegetarian","Less Spicy","Rice Noodle, Shrimp, Tamarind Sauce, Lemon, Roasted Peanut, Spring Onion",520.00,50,10,"Thai "
+34,"Spicy Prawns Soup with Lemongrass and Kaffir Lime Leaves","Main Couse",Thai,"Non Vegetarian",Spicy,"Prawns, Lemongrass, Kaffir Lime Leave, Chilli, Sugar",65.00,50,10,"Thai "
+35,"Glass Noodle and Vegetables Soup with Pork","Main Couse",Thai,"Non Vegetarian","Less Spicy","Glass Noodle, Pork, Chinese Cabbage, Spring Onion, Garlic",115.00,40,10,"Thai "
+36,"Boiled Rice with Protein ","Main Couse",Thai,"Non Vegetarian","Less Spicy","Rice, Pork, Garlic",228.00,40,10,"Thai "
+37,"Thai Omelette with Minced Pork with Rice","Main Couse",Thai,"Non Vegetarian","Less Spicy","Egg, Pork, Rice, Soy Sauce",490.00,40,5,"Thai "
+38,"Stir-Fried Mixed Vegetables with Rice","Main Couse",Thai,Vegetarian,"Less Spicy","Kale, Carrots, Garlic, Chinese Cabbage, Soy Sauce, Rice",450.00,40,5,"Thai "
+39,"Sweet and Sour Chicken with Rice","Main Couse",Thai,"Non Vegetarian","Less Spicy","Chicken, Sugar, Tammarine Sauce, Spring Onion, Rice",465.00,40,10,"Thai "
+40,"Mixed Spicy Pork Salad","Main Couse",Myanmar,"Non Vegetarian",Spicy,"Lemon, Pork, Red Onion, Chilli, Salt, Garlic, Parsley ",165.00,50,10,Asian
+41,"Grilled Beef","Main Couse",Myanmar,"Non Vegetarian","Less Spicy","Beef, Pepper, Lemon, Parsley",264.00,80,15,Asian
+42,"Kale Fried with Crispy Pork with Rice","Main Couse",Myanmar,"Non Vegetarian","Less Spicy","Kale, Chilli, Crispy Pork, Oyster Sauce, Garlic, Rice, Oil",650.00,45,10,Asian
+43,"Deep Fired Pork Ribs ","Main Couse",Myanmar,"Non Vegetarian","Less Spicy","Pork Rib, Oil, Peper",210.00,60,15,Asian
+44,"Fried Chicken with Sesame","Main Couse",Myanmar,"Non Vegetarian","Less Spicy","Chicken, Oil, Sesame",192.00,50,10,Asian
+45,"Pickled Tea Leaf Salad",Starter,Myanmar,"Non Vegetarian","Medium Spicy","Pickled Tea Leaf, Lemon, Salt, Garlic, Tomatos, Bean, Roasted Peanut, Cabbage, Chilli",130.00,25,10,Asian
+46,"Stream Fish with Soy Bean","Main Couse",Myanmar,"Non Vegetarian","Less Spicy","Fish, Soy Bean, Chilli",157.00,45,5,Asian
+47,"Fired Egg Plant","Main Couse",Myanmar,"Non Vegetarian","Less Spicy","Egg Plants, Oyster Oil",66.00,15,5,Asian
+48,"Pork Fried Rice ","Main Couse",Myanmar,"Non Vegetarian","Less Spicy","Rice, Pork, Garlic, Oil, Egg, Pea, Carrot",363.00,40,10,Asian
+49,"Vegetable Fired Rice","Main Couse",Myanmar,Vegetarian,"Less Spicy","Rice, Baby Corn, Carrot, Sweet Pepper",160.00,40,10,Asian
+50,"Noodles Duck",Noodle,Thai,"Non Vegetarian","Less Spicy","Noodles, Duck, Cabbage",330.00,40,5,"Thai noodle"
+51,"Noodles Pork clear soup",Noodle,Thai,"Non Vegetarian","Less Spicy","Noodles, Pork, Cabbage",276.00,40,5,"Thai noodle"
+52,"Noodles Pork Balls",Noodle,Thai,"Non Vegetarian","Less Spicy","Noodles, Pork Balls, Cabbage",225.00,40,5,"Thai noodle"
+53,"Noodles Chicken",Noodle,Thai,"Non Vegetarian","Less Spicy","Noodles, Chicken, Cabbage, Onion Spring, Bean Sprouts",428.00,40,5,"Thai noodle"
+54,"Noodle Pork Tomyum",Noodle,Thai,"Non Vegetarian","Less Spicy","Noodles, Pork, Pork Balls, Cabbage, Onion Spring, Bean Sprouts, Lemon",320.00,40,5,"Thai noodle"
+55,"Stream Chicken with Rice","Main Couse",Thai,"Non Vegetarian","Less Spicy","Rice, Streamed Chicken, Cucumber, Chilli sauce  ",597.00,40,5,"Thai noodle"
+56,"Fired Chicken with Rice","Main Couse",Thai,"Non Vegetarian","Less Spicy","Rice, Fired Chicken, Cucumber, Chilli sauce ",695.00,40,5,"Thai noodle"
+57,"Grilled Chicken with Rice","Main Couse",Thai,"Non Vegetarian","Less Spicy","Rice, Grilled Chicken, Cucumber, Chilli sauce ",597.00,40,5,"Thai noodle"
+58,"Paneer Masala","Main Couse",Indian,Vegetarian,Spicy,"Paneer,Tomato,Onion,Ginger garlic paste,Coriander,Garam masala,chilli powder",389.00,50,5,Indian
+59,"Mix Veg","Main Couse",Indian,Vegetarian,Spicy,"Vegies,Tomato,onion,chilli powder",37.00,25,5,Indian
+60,"Aloo Gobi","Main Couse",Indian,Vegetarian,Spicy,"potatoes,cauliflower",245.00,25,5,Indian
+61,"Chiken Kadai","Main Couse",Indian,"Non Vegetarian",Spicy," chicken,garam masala powder, garlic paste,ginger paste,coriander leaves,tomatoes",400.00,50,5,Indian
+62,"Chiken Masala","Main Couse",Indian,"Non Vegetarian",Spicy,"Combine garlic,Chicken,coriander, cumin,cardamom,tomato,onion",320.00,40,5,Indian
+63,"Butter Chicken","Main Couse",Indian,"Non Vegetarian",Spicy,"Chicken,Butter,yogurt,kasuri methi,oil",384.00,50,5,Indian
+64,"Fish curry","Main Couse",Indian,"Non Vegetarian",Spicy,"Fish,rice bran oil, cumin seeds,fennel seeds,ginger",241.00,40,5,Indian
+65,"Fish Fry","Main Couse",Indian,"Non Vegetarian",Spicy,"Fish,ginger garlic paste,garam masala,chilli powder",267.00,25,5,Indian
+66,"Chicken Biryani","Main Couse",Indian,"Non Vegetarian",Spicy,"Chicken,Tomato,rice,chilli powder",348.00,45,5,Indian
+67,"Jeera Rice","Main Couse",Indian,Vegetarian,"Less Spicy","Rice,cumin seeds (jeera) ,butter,cinnamon stick,cloves",200.00,20,5,Indian
+68,"Egg fried Rice","Main Couse",Indian,"Non Vegetarian","Less Spicy","Egg,Rice,sunflower oil,garlic cloves,corn",163.00,25,30,Indian
+69,"Peas Pulao","Main Couse",Indian,Vegetarian,"Less Spicy"," basmati rice,matar/peas, oil,salt",206.00,30,5,Indian
+70,Chapathi,"Main Couse",Indian,Vegetarian,"Less Spicy","wheat flour,oil",120.00,10,15,Indian
+71,Naan,"Main Couse",Indian,Vegetarian,"Less Spicy","dry yeast,sugar,sea salt,baking powder,yogurt,olive oil,all-purpose flour",137.00,10,15,Indian
+72,"Butter Naan","Main Couse",Indian,Vegetarian,"Less Spicy","Butter,dry yeast,sugar,sea salt,baking powder,yogurt,olive oil,all-purpose flour",221.30,15,20,Indian
+73,Paratha,"Main Couse",Indian,Vegetarian,"Less Spicy","chapati flour/wheat flour,vegetable oi,salt,water",290.00,15,25,Indian
+74,"Aloo paratha","Main Couse",Indian,Vegetarian,"Less Spicy","potato,chapati flour/wheat flour,vegetable oi,salt,water",360.00,25,30,Indian
+75,"Gulab jamun",Dessert,Indian,Vegetarian,"Less Spicy","Khoa, saffron",143.00,25,5,Indian
+76,Halwa,Dessert,Indian,Vegetarian,"Less Spicy","grain flour, butter,sugar,sesame paste",447.00,25,5,Indian
+77,"Indian Tea",Drink,Indian,Vegetarian,"Less Spicy","Milk,Tea powder,sugar",90.00,15,10,Indian
+78,"Chicken Tikka",Starter,Indian,"Non Vegetarian","Medium Spicy","Chicken pieces,Chilli powder,cinnamon,yougurt",148.00,50,5,Indian
+79,"Vegetable Salad",Starter,Thai,Vegetarian,"Less Spicy","Tomatos, Cucumbers, Corn, Cabbage, Red Bean, Onion, Egg, Purple Cauliflower, Salad Cream",15.00,40,5,Desert
+80,"Ice cream",Dessert,Thai,Vegetarian,"Less Spicy","Sugar, Lemon, Taro, Coconut, Chocolate, Coffee, Strawberry, waffer",267.00,10,5,Desert
+81,Papaya,Fruits,Thai,Vegetarian,"Less Spicy",Papaya,50.00,20,5,Desert
+82,Pineapple,Fruits,Thai,Vegetarian,"Less Spicy",Pineapple,60.00,20,5,Desert
+83,Guava,Fruits,Thai,Vegetarian,"Less Spicy",Guava,61.00,25,5,Desert
+84,"Jack Fruit",Fruits,Thai,Vegetarian,"Less Spicy","Jack Fruit",155.00,25,5,Desert
+85,Mango,Fruits,Thai,Vegetarian,"Less Spicy",Mango,107.00,25,5,Desert
+86,Coconut,Fruits,Thai,Vegetarian,"Less Spicy",Coconut,150.00,35,5,Desert
+87,"Water Melon",Fruits,Thai,Vegetarian,"Less Spicy","Water Melon",8.00,20,5,Desert
+88,"Coconut Jelly",Dessert,Thai,Vegetarian,"Less Spicy","Coconut, Jelly",170.00,25,5,Desert

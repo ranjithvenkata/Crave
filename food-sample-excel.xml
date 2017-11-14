@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">food_id</Data></Cell>
+			<Cell><Data ss:Type="String">Name</Data></Cell>
+			<Cell><Data ss:Type="String">Type</Data></Cell>
+			<Cell><Data ss:Type="String">Cuisine</Data></Cell>
+			<Cell><Data ss:Type="String">Veg</Data></Cell>
+			<Cell><Data ss:Type="String">Taste</Data></Cell>
+			<Cell><Data ss:Type="String">Ingedient</Data></Cell>
+			<Cell><Data ss:Type="String">Calories</Data></Cell>
+			<Cell><Data ss:Type="String">Price</Data></Cell>
+			<Cell><Data ss:Type="String">Time_used</Data></Cell>
+			<Cell><Data ss:Type="String">shop</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Rice with crispy pork</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Crispy Pork,rice</Data></Cell>
+			<Cell><Data ss:Type="Number">490.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Rice topping shop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Rice with crispy pork and egg</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Crispy Pork,rice,egg</Data></Cell>
+			<Cell><Data ss:Type="Number">568.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Rice topping shop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Rice with BarBQ red pork</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">red pork,rice</Data></Cell>
+			<Cell><Data ss:Type="Number">541.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Rice topping shop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">steamed Rice with roasted chicken</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">ckicken,rice</Data></Cell>
+			<Cell><Data ss:Type="Number">251.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Rice topping shop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">steamed Rice with  chicken soup</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">chicken,rice</Data></Cell>
+			<Cell><Data ss:Type="Number">597.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Rice topping shop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">steamed Rice with  chicken soup and innards</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">neck,gizzard,heart,liver of a chicken,rice</Data></Cell>
+			<Cell><Data ss:Type="Number">597.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Rice topping shop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Pizza Margherita</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Tomato,Cheese,Bread</Data></Cell>
+			<Cell><Data ss:Type="Number">204.00</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">BakedPasta</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">cream cheese or tomato cheese</Data></Cell>
+			<Cell><Data ss:Type="Number">403.00</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Pizza Hawaiian</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Medium spicy</Data></Cell>
+			<Cell><Data ss:Type="String">chiken ham,sausage,bell pepper,pineapple,onion,olive,tomato,cheese</Data></Cell>
+			<Cell><Data ss:Type="Number">220.00</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Pizza vegetable</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">tomato and cheese</Data></Cell>
+			<Cell><Data ss:Type="Number">242.00</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Spaghetti </Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Medium spicy</Data></Cell>
+			<Cell><Data ss:Type="String">cabonara sauce or beef sauce or chicken sauce</Data></Cell>
+			<Cell><Data ss:Type="Number">329.00</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Spaghetti </Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">tomato sauce</Data></Cell>
+			<Cell><Data ss:Type="Number">325.00</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Lasagna</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Spinach and mushroom</Data></Cell>
+			<Cell><Data ss:Type="Number">334.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Garlic Bread</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">South American</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">butter,garlic powder,parsely</Data></Cell>
+			<Cell><Data ss:Type="Number">94.00</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Baked Soft roll garlic</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">South American</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">84.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Soft roll</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">South American</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">yeast,milk,egg,vegitable oil,sugar,salt,butter,flour</Data></Cell>
+			<Cell><Data ss:Type="Number">78.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Caramel Custard</Data></Cell>
+			<Cell><Data ss:Type="String">Dessert</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">vannila,sugar,milk,egg</Data></Cell>
+			<Cell><Data ss:Type="Number">70.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">FreshFruit</Data></Cell>
+			<Cell><Data ss:Type="String">Dessert</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">70.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Grilled chicken mushroom</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">fried potato,butter vegitable</Data></Cell>
+			<Cell><Data ss:Type="Number">330.00</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Grilled Pork loin Mushroom </Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">fried potato,butter vegitable</Data></Cell>
+			<Cell><Data ss:Type="Number">346.00</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Grilled Beef striploin mushroom</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">fried potato,butter vegitable</Data></Cell>
+			<Cell><Data ss:Type="Number">489.00</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">vegetable salad</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">allvegetables</Data></Cell>
+			<Cell><Data ss:Type="Number">15.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">Tuna salad</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">white meat tuna,celery</Data></Cell>
+			<Cell><Data ss:Type="Number">140.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">chicken salad</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">chicken</Data></Cell>
+			<Cell><Data ss:Type="Number">290.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">papaya salad</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">papaya</Data></Cell>
+			<Cell><Data ss:Type="Number">270.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">chicken soup</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Medium spicy</Data></Cell>
+			<Cell><Data ss:Type="String">chicken</Data></Cell>
+			<Cell><Data ss:Type="Number">130.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">Mushroom soup</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Medium spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Mushroom</Data></Cell>
+			<Cell><Data ss:Type="Number">138.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">Potato cream soup</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Medium spicy</Data></Cell>
+			<Cell><Data ss:Type="String">garlic,celery,potato,chicken granuales</Data></Cell>
+			<Cell><Data ss:Type="Number">148.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">tomato cream soup</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">garlic,celery,tomato,chicken stock</Data></Cell>
+			<Cell><Data ss:Type="Number">130.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Western</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Stir-Fried Chicken with Chilli and Hot Basil Leaves </Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Medium Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Rice,Chicken,Chilli,Basil leaves</Data></Cell>
+			<Cell><Data ss:Type="Number">554.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">Stir-Fired Flat Rice Noodels with Pork in Soy Sauce</Data></Cell>
+			<Cell><Data ss:Type="String">Noodle</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Flat Rice Noodels, Pork, Soy Sauce </Data></Cell>
+			<Cell><Data ss:Type="Number">679.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">Sukiyaki Noodels with Seafood</Data></Cell>
+			<Cell><Data ss:Type="String">Noodle</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Glass Noodles, Prawn, Squeez, Kale, Soy Sauce, Tapioca flour</Data></Cell>
+			<Cell><Data ss:Type="Number">330.00</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">Stir Fired Rice Noodle with Shrimp in Tamarind Sauce</Data></Cell>
+			<Cell><Data ss:Type="String">Noodle</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Rice Noodle, Shrimp, Tamarind Sauce, Lemon, Roasted Peanut, Spring Onion</Data></Cell>
+			<Cell><Data ss:Type="Number">520.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy Prawns Soup with Lemongrass and Kaffir Lime Leaves</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Prawns, Lemongrass, Kaffir Lime Leave, Chilli, Sugar</Data></Cell>
+			<Cell><Data ss:Type="Number">65.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="String">Glass Noodle and Vegetables Soup with Pork</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Glass Noodle, Pork, Chinese Cabbage, Spring Onion, Garlic</Data></Cell>
+			<Cell><Data ss:Type="Number">115.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">Boiled Rice with Protein </Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Rice, Pork, Garlic</Data></Cell>
+			<Cell><Data ss:Type="Number">228.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="String">Thai Omelette with Minced Pork with Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Egg, Pork, Rice, Soy Sauce</Data></Cell>
+			<Cell><Data ss:Type="Number">490.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="String">Stir-Fried Mixed Vegetables with Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Kale, Carrots, Garlic, Chinese Cabbage, Soy Sauce, Rice</Data></Cell>
+			<Cell><Data ss:Type="Number">450.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="String">Sweet and Sour Chicken with Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken, Sugar, Tammarine Sauce, Spring Onion, Rice</Data></Cell>
+			<Cell><Data ss:Type="Number">465.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Thai </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="String">Mixed Spicy Pork Salad</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Lemon, Pork, Red Onion, Chilli, Salt, Garlic, Parsley </Data></Cell>
+			<Cell><Data ss:Type="Number">165.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="String">Grilled Beef</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Beef, Pepper, Lemon, Parsley</Data></Cell>
+			<Cell><Data ss:Type="Number">264.00</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="String">Kale Fried with Crispy Pork with Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Kale, Chilli, Crispy Pork, Oyster Sauce, Garlic, Rice, Oil</Data></Cell>
+			<Cell><Data ss:Type="Number">650.00</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="String">Deep Fired Pork Ribs </Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Pork Rib, Oil, Peper</Data></Cell>
+			<Cell><Data ss:Type="Number">210.00</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="String">Fried Chicken with Sesame</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken, Oil, Sesame</Data></Cell>
+			<Cell><Data ss:Type="Number">192.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="String">Pickled Tea Leaf Salad</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Medium Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Pickled Tea Leaf, Lemon, Salt, Garlic, Tomatos, Bean, Roasted Peanut, Cabbage, Chilli</Data></Cell>
+			<Cell><Data ss:Type="Number">130.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="String">Stream Fish with Soy Bean</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Fish, Soy Bean, Chilli</Data></Cell>
+			<Cell><Data ss:Type="Number">157.00</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="String">Fired Egg Plant</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Egg Plants, Oyster Oil</Data></Cell>
+			<Cell><Data ss:Type="Number">66.00</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="String">Pork Fried Rice </Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Rice, Pork, Garlic, Oil, Egg, Pea, Carrot</Data></Cell>
+			<Cell><Data ss:Type="Number">363.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetable Fired Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Rice, Baby Corn, Carrot, Sweet Pepper</Data></Cell>
+			<Cell><Data ss:Type="Number">160.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="String">Noodles Duck</Data></Cell>
+			<Cell><Data ss:Type="String">Noodle</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Noodles, Duck, Cabbage</Data></Cell>
+			<Cell><Data ss:Type="Number">330.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai noodle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+			<Cell><Data ss:Type="String">Noodles Pork clear soup</Data></Cell>
+			<Cell><Data ss:Type="String">Noodle</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Noodles, Pork, Cabbage</Data></Cell>
+			<Cell><Data ss:Type="Number">276.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai noodle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="String">Noodles Pork Balls</Data></Cell>
+			<Cell><Data ss:Type="String">Noodle</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Noodles, Pork Balls, Cabbage</Data></Cell>
+			<Cell><Data ss:Type="Number">225.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai noodle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="String">Noodles Chicken</Data></Cell>
+			<Cell><Data ss:Type="String">Noodle</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Noodles, Chicken, Cabbage, Onion Spring, Bean Sprouts</Data></Cell>
+			<Cell><Data ss:Type="Number">428.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai noodle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="String">Noodle Pork Tomyum</Data></Cell>
+			<Cell><Data ss:Type="String">Noodle</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Noodles, Pork, Pork Balls, Cabbage, Onion Spring, Bean Sprouts, Lemon</Data></Cell>
+			<Cell><Data ss:Type="Number">320.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai noodle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="String">Stream Chicken with Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Rice, Streamed Chicken, Cucumber, Chilli sauce  </Data></Cell>
+			<Cell><Data ss:Type="Number">597.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai noodle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="String">Fired Chicken with Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Rice, Fired Chicken, Cucumber, Chilli sauce </Data></Cell>
+			<Cell><Data ss:Type="Number">695.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai noodle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="String">Grilled Chicken with Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Rice, Grilled Chicken, Cucumber, Chilli sauce </Data></Cell>
+			<Cell><Data ss:Type="Number">597.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Thai noodle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="String">Paneer Masala</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Paneer,Tomato,Onion,Ginger garlic paste,Coriander,Garam masala,chilli powder</Data></Cell>
+			<Cell><Data ss:Type="Number">389.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="String">Mix Veg</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Vegies,Tomato,onion,chilli powder</Data></Cell>
+			<Cell><Data ss:Type="Number">37.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="String">Aloo Gobi</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">potatoes,cauliflower</Data></Cell>
+			<Cell><Data ss:Type="Number">245.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+			<Cell><Data ss:Type="String">Chiken Kadai</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String"> chicken,garam masala powder, garlic paste,ginger paste,coriander leaves,tomatoes</Data></Cell>
+			<Cell><Data ss:Type="Number">400.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="String">Chiken Masala</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Combine garlic,Chicken,coriander, cumin,cardamom,tomato,onion</Data></Cell>
+			<Cell><Data ss:Type="Number">320.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+			<Cell><Data ss:Type="String">Butter Chicken</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken,Butter,yogurt,kasuri methi,oil</Data></Cell>
+			<Cell><Data ss:Type="Number">384.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="String">Fish curry</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Fish,rice bran oil, cumin seeds,fennel seeds,ginger</Data></Cell>
+			<Cell><Data ss:Type="Number">241.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="String">Fish Fry</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Fish,ginger garlic paste,garam masala,chilli powder</Data></Cell>
+			<Cell><Data ss:Type="Number">267.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken Biryani</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken,Tomato,rice,chilli powder</Data></Cell>
+			<Cell><Data ss:Type="Number">348.00</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+			<Cell><Data ss:Type="String">Jeera Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Rice,cumin seeds (jeera) ,butter,cinnamon stick,cloves</Data></Cell>
+			<Cell><Data ss:Type="Number">200.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="String">Egg fried Rice</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Egg,Rice,sunflower oil,garlic cloves,corn</Data></Cell>
+			<Cell><Data ss:Type="Number">163.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+			<Cell><Data ss:Type="String">Peas Pulao</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String"> basmati rice,matar/peas, oil,salt</Data></Cell>
+			<Cell><Data ss:Type="Number">206.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+			<Cell><Data ss:Type="String">Chapathi</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">wheat flour,oil</Data></Cell>
+			<Cell><Data ss:Type="Number">120.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="String">Naan</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">dry yeast,sugar,sea salt,baking powder,yogurt,olive oil,all-purpose flour</Data></Cell>
+			<Cell><Data ss:Type="Number">137.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="String">Butter Naan</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Butter,dry yeast,sugar,sea salt,baking powder,yogurt,olive oil,all-purpose flour</Data></Cell>
+			<Cell><Data ss:Type="Number">221.30</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="String">Paratha</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">chapati flour/wheat flour,vegetable oi,salt,water</Data></Cell>
+			<Cell><Data ss:Type="Number">290.00</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+			<Cell><Data ss:Type="String">Aloo paratha</Data></Cell>
+			<Cell><Data ss:Type="String">Main Couse</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">potato,chapati flour/wheat flour,vegetable oi,salt,water</Data></Cell>
+			<Cell><Data ss:Type="Number">360.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="String">Gulab jamun</Data></Cell>
+			<Cell><Data ss:Type="String">Dessert</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Khoa, saffron</Data></Cell>
+			<Cell><Data ss:Type="Number">143.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+			<Cell><Data ss:Type="String">Halwa</Data></Cell>
+			<Cell><Data ss:Type="String">Dessert</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">grain flour, butter,sugar,sesame paste</Data></Cell>
+			<Cell><Data ss:Type="Number">447.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+			<Cell><Data ss:Type="String">Indian Tea</Data></Cell>
+			<Cell><Data ss:Type="String">Drink</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Milk,Tea powder,sugar</Data></Cell>
+			<Cell><Data ss:Type="Number">90.00</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken Tikka</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+			<Cell><Data ss:Type="String">Non Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Medium Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken pieces,Chilli powder,cinnamon,yougurt</Data></Cell>
+			<Cell><Data ss:Type="Number">148.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Indian</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetable Salad</Data></Cell>
+			<Cell><Data ss:Type="String">Starter</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Tomatos, Cucumbers, Corn, Cabbage, Red Bean, Onion, Egg, Purple Cauliflower, Salad Cream</Data></Cell>
+			<Cell><Data ss:Type="Number">15.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="String">Ice cream</Data></Cell>
+			<Cell><Data ss:Type="String">Dessert</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Sugar, Lemon, Taro, Coconut, Chocolate, Coffee, Strawberry, waffer</Data></Cell>
+			<Cell><Data ss:Type="Number">267.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="String">Papaya</Data></Cell>
+			<Cell><Data ss:Type="String">Fruits</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Papaya</Data></Cell>
+			<Cell><Data ss:Type="Number">50.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+			<Cell><Data ss:Type="String">Pineapple</Data></Cell>
+			<Cell><Data ss:Type="String">Fruits</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Pineapple</Data></Cell>
+			<Cell><Data ss:Type="Number">60.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+			<Cell><Data ss:Type="String">Guava</Data></Cell>
+			<Cell><Data ss:Type="String">Fruits</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Guava</Data></Cell>
+			<Cell><Data ss:Type="Number">61.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+			<Cell><Data ss:Type="String">Jack Fruit</Data></Cell>
+			<Cell><Data ss:Type="String">Fruits</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Jack Fruit</Data></Cell>
+			<Cell><Data ss:Type="Number">155.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+			<Cell><Data ss:Type="String">Mango</Data></Cell>
+			<Cell><Data ss:Type="String">Fruits</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Mango</Data></Cell>
+			<Cell><Data ss:Type="Number">107.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+			<Cell><Data ss:Type="String">Coconut</Data></Cell>
+			<Cell><Data ss:Type="String">Fruits</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Coconut</Data></Cell>
+			<Cell><Data ss:Type="Number">150.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+			<Cell><Data ss:Type="String">Water Melon</Data></Cell>
+			<Cell><Data ss:Type="String">Fruits</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Water Melon</Data></Cell>
+			<Cell><Data ss:Type="Number">8.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+			<Cell><Data ss:Type="String">Coconut Jelly</Data></Cell>
+			<Cell><Data ss:Type="String">Dessert</Data></Cell>
+			<Cell><Data ss:Type="String">Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Vegetarian</Data></Cell>
+			<Cell><Data ss:Type="String">Less Spicy</Data></Cell>
+			<Cell><Data ss:Type="String">Coconut, Jelly</Data></Cell>
+			<Cell><Data ss:Type="Number">170.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Desert</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
